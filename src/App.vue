@@ -7,27 +7,27 @@
         role="Director"
     />
     <Card
-        image="/mohammed.jpg"
+        image="/picture1.jpg"
         name="Samuel"
         role="Manager"
     />
     <Card
-        image="/mohammed.jpg"
+        image="/picture2.JPG"
         name="Marky"
         role="CEO"
     />
     <Card
-        image="/mohammed.jpg"
+        image="/picture3.JPG"
         name="Christoph"
         role="Public Relation Officer"
     />
     <Card
-        image="/mohammed.jpg"
+        image="/picture4.JPG"
         name="Derrick"
         role="Project Director"
     />
     <Card
-        image="/mohammed.jpg"
+        image="/picture5.JPG"
         name="Nathan"
         role="Chief Executive Officer"
     />
