@@ -1,35 +1,35 @@
 <template>
 
-  <section class="grid md:grid-cols-2 lg:grid-cols-3 grid-cols-1 gap-4 max-w-7xl  mx-auto">
+  <section class="grid md:grid-cols-2 lg:grid-cols-3 grid-cols-1 gap-4 max-w-7xl mx-auto pt-10 pb-10">
     <Card
         image="/mohammed.jpg"
-        name="M. Rogers"
+        name="Rogers"
         role="Director"
     />
     <Card
         image="/mohammed.jpg"
-        name="M. Rogers"
-        role="Director"
+        name="Samuel"
+        role="Manager"
     />
     <Card
         image="/mohammed.jpg"
-        name="M. Rogers"
-        role="Director"
+        name="Marky"
+        role="CEO"
     />
     <Card
         image="/mohammed.jpg"
-        name="M. Rogers"
-        role="Director"
+        name="Christoph"
+        role="Public Relation Officer"
     />
     <Card
         image="/mohammed.jpg"
-        name="M. Rogers"
-        role="Director"
+        name="Derrick"
+        role="Project Director"
     />
     <Card
         image="/mohammed.jpg"
-        name="M. Rogers"
-        role="Director"
+        name="Nathan"
+        role="Chief Executive Officer"
     />
 
   </section>
